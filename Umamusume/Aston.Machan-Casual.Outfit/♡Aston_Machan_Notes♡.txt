@@ -1,0 +1,31 @@
+✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+💠  ASTON MACHAN — Casual Outfit
+✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+
+📁 Project: Umamusume / Aston Machan  
+🎨 Type: Character Model (Stylized)  
+🧩 Software: Blender 4.4  
+📦 Resources: Packed inside .blend file  
+📸 Renders: /Renders folder  
+🎨 Textures: /Textures folder  
+
+✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+🌈 Stats
+✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+
+🔹 Vertices: 2,131  
+🔸 Edges: 3,788  
+🔹 Faces: 1,711  
+🔸 Triangles: 3,638  
+
+✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+🌈 Notes
+✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+
+💖 This model was made with lots of love ♡  
+📦 All resources are packed inside the .blend file.  
+✨ Feel free to explore, render, or study the setup!  
+
+✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+
+Made by d4rffy
